@@ -1,13 +1,13 @@
 from typing import Optional
 
 import graphene
-from graphene import Schema, Int
+from graphene import Int, Schema
 from graphql import ResolveInfo
 from promise import Promise
 
 from context import DATA_LOADER_COUNTRIES, DATA_LOADER_NEWS
-from models.places import PlaceModel
 from models.countries import CountryModel
+from models.places import PlaceModel
 from services.places import PlacesService
 
 
@@ -33,7 +33,6 @@ class News(graphene.ObjectType):
     url_to_image = graphene.String()
     published_at = graphene.String()
     content = graphene.String()
-
 
 
 class Country(graphene.ObjectType):
@@ -74,7 +73,6 @@ class Country(graphene.ObjectType):
             return dataloaders[DATA_LOADER_NEWS].load(str(parent.alpha2code))
 
         return Promise.resolve([])
-
 
 
 class Place(graphene.ObjectType):
@@ -123,8 +121,11 @@ class Query(graphene.ObjectType):
 
     @staticmethod
     def resolve_place(
-        parent: Optional[dict], info: ResolveInfo, id: int  # pylint: disable=unused-argument
+        parent: Optional[dict],
+        info: ResolveInfo,
+        placeid: int,  # pylint: disable=unused-argument
     ) -> PlaceModel:
-        return PlacesService().get_place(id)
+        return PlacesService().get_place(placeid)
+
 
 schema = Schema(query=Query)

@@ -1,8 +1,8 @@
 from promise import Promise
 from promise.dataloader import DataLoader
 
-from services.news import NewsService
 from services.countries import CountriesService
+from services.news import NewsService
 
 
 class CountryLoader(DataLoader):
@@ -26,6 +26,7 @@ class CountryLoader(DataLoader):
         # формирование результата с сохранением порядка из alpha2codes
         return Promise.resolve([countries_map.get(code) for code in alpha2codes])
 
+
 class NewsLoader(DataLoader):
     """
     Загрузчик данных о новостях.
@@ -41,6 +42,6 @@ class NewsLoader(DataLoader):
         :return: список новостей стран по ISO Alpha2-коду
         """
 
-        news = NewsService().get_news()        
+        news = NewsService().get_news()
         # формирование результата с сохранением порядка из alpha2codes
         return Promise.resolve([news.get(code) for code in alpha2codes])

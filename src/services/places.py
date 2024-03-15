@@ -35,8 +35,7 @@ class PlacesService:
 
         return result
 
-
-    def get_place(self, id) -> PlaceModel:
+    def get_place(self, placeid:int) -> PlaceModel:
         """
         Получение места по идентификатору.
 
@@ -56,7 +55,9 @@ class PlacesService:
                         locality=place.get("locality"),
                         created_at=place.get("created_at"),
                         updated_at=place.get("updated_at"),
-                    ) 
-                    for place in data.get("data", []) if place["id"] == id)                
+                    )
+                    for place in data.get("data", [])
+                    if place["id"] == placeid
+                )
 
         return result
