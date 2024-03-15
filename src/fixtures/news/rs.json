@@ -1,0 +1,30 @@
+{
+    "articles": [
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "\u0414\u0430\u043d\u0430\u0441",
+            "title": "Evakuisana IKEA u Beogradu, zaposleni i kupci na parkingu (FOTO) - \u0414\u0430\u043d\u0430\u0441",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMiY2h0dHBzOi8vd3d3LmRhbmFzLnJzL3Zlc3RpL2RydXN0dm8vZXZha3Vpc2FuYS1pa2VhLXUtYmVvZ3JhZHUtcmFkbmljaS1pLXphcG9zbGVuaS1uYS1wYXJraW5ndS1mb3RvL9IBAA?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2024-02-08T12:22:30Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "Espreso",
+            "title": "STRU\u010cNJACI OTKRILI VEZU IZME\u0110U \u010cA\u010cKANJA NOSA I NEIZLE\u010cIVE BOLESTI: Uglavnom poga\u0111a ljude preko 65 godine - Espreso",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMid2h0dHBzOi8vd3d3LmVzcHJlc28uY28ucnMvbGlmZXN0eWxlL3pkcmF2bGplLzE0MjY2MDAvc3RydWNuamFjaS1vdGtyaWxpLXZlenUtaXptZWRqdS1jYWNrYW5qYS1ub3NhLWktbmVpemxlY2l2ZS1ib2xlc3Rp0gFoaHR0cHM6Ly93d3cuZXNwcmVzby5jby5ycy9hbXAvMTQyNjYwMC9zdHJ1Y25qYWNpLW90a3JpbGktdmV6dS1pem1lZGp1LWNhY2thbmphLW5vc2EtaS1uZWl6bGVjaXZlLWJvbGVzdGk?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2024-02-08T12:19:25Z",
+            "content": null
+        }
+    ]
+}
