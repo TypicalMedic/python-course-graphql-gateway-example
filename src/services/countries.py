@@ -12,7 +12,7 @@ class CountriesService:
         """
         Получение списка стран.
 
-        :return:
+        :return: Список стран.
         """
 
         result = []

@@ -96,7 +96,7 @@ class Place(graphene.ObjectType):
 
         :param parent: Объект любимого места.
         :param info: Объект с метаинформацией и данных о контексте запроса.
-        :return:
+        :return: Страны
         """
 
         if info.context:

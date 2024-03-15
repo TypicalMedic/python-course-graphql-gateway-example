@@ -12,7 +12,7 @@ class PlacesService:
         """
         Получение списка любимых мест.
 
-        :return:
+        :return: Список любимых мест.
         """
 
         result = []
@@ -40,7 +40,7 @@ class PlacesService:
         """
         Получение места по идентификатору.
 
-        :return:
+        :return: Место.
         """
 
         with open("fixtures/places.json", encoding="utf-8") as file:

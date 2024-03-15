@@ -11,7 +11,7 @@ def register_dataloaders() -> Dict[str, DataLoader]:
     """
     Регистрация загрузчиков данных.
 
-    :return:
+    :return: Словарь загрузчиков данных.
     """
 
     return {
@@ -24,7 +24,7 @@ def get_context() -> Dict[str, Dict[str, DataLoader]]:
     """
     Формирование контекста для представления схемы GraphQL.
 
-    :return:
+    :return: Словарь загрузчиков данных.
     """
 
     return {"dataloaders": register_dataloaders()}
