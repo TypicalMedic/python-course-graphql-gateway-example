@@ -1,0 +1,43 @@
+{
+    "articles": [
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "RTE.ie",
+            "title": "British soldiers to be charged over Belfast shootings - RTE.ie",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMiSmh0dHBzOi8vd3d3LnJ0ZS5pZS9uZXdzL3JlZ2lvbmFsLzIwMjQvMDIwOC8xNDMxMTY0LWJlbGZhc3Qtc2hvb3RpbmdzLTE5NzIv0gEA?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2024-02-08T12:00:39Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "Teagasc",
+            "title": "2024 - New Research highlights implications of Antibiotic use in Human and Veterinary Medicine - Teagasc",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMiSWh0dHBzOi8vd3d3LnRlYWdhc2MuaWUvbmV3cy0tZXZlbnRzL25ld3MvMjAyNC9hbnRpYmlvdGljLWltcGxpY2F0aW9ucy5waHDSAQA?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2024-02-08T11:41:28Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "RTE.ie",
+            "title": "Community 'outraged' after arson attack in Leixlip - RTE.ie",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMiQGh0dHBzOi8vd3d3LnJ0ZS5pZS9uZXdzL2xlaW5zdGVyLzIwMjQvMDIwOC8xNDMxMTI0LWxlaXhsaXAtZmlyZS_SAQA?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2024-02-08T11:23:18Z",
+            "content": null
+        }
+    ]
+}

@@ -1,0 +1,69 @@
+{
+    "articles": [
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Elizabeth Wolfe, Robert Shackelford, Amanda Jackson",
+            "title": "Severe storms – with reports of strong tornadoes – destroy buildings and knock out power in Indiana and Ohio - CNN",
+            "description": "Strong storms that likely included tornadoes swept through eastern Indiana and western Ohio on Thursday evening, leaving at least two people dead, destroying parts of some towns, knocking out power for thousands, and prompting search and rescue efforts in at …",
+            "url": "https://www.cnn.com/2024/03/15/weather/indiana-ohio-storm-tornado-damage-friday/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/431993172-820181386811513-8-1.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2024-03-15T08:24:00Z",
+            "content": "Strong storms that likely included tornadoes swept through eastern Indiana and western Ohio on Thursday evening, leaving at least two people dead, destroying parts of some towns, knocking out power f… [+5092 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Athletic"
+            },
+            "author": "Randy Mueller",
+            "title": "2024 NFL free-agency tracker: From Danielle Hunter to Jamal Adams, see where top 150 players land - The Athletic",
+            "description": "NFL free agency begins at noon Monday when the tampering window opens. Track the best available players (and where they land) right here.",
+            "url": "https://theathletic.com/5318482/2024/03/14/nfl-free-agent-rankings-tracker/",
+            "urlToImage": "https://cdn.theathletic.com/app/uploads/2024/03/07191019/0308_NFL_Top150FA.png",
+            "publishedAt": "2024-03-15T06:11:20Z",
+            "content": "NFL free agency is in full swing, with the legal tampering window opening Monday and the new league year beginning Wednesday at 4 p.m. ET.\r\nThese are my updated rankings and scouting reports of the t… [+98308 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "ScienceAlert"
+            },
+            "author": "Mike McRae",
+            "title": "Breakthrough Therapy Obliterates Deadly Brain Tumor in Days - ScienceAlert",
+            "description": "Brain scans of a 72-year-old man diagnosed with a highly aggressive form of cancer known as a glioblastoma have revealed a remarkable regression in his tumor's size within days of receiving an infusion of an innovative new treatment.",
+            "url": "https://www.sciencealert.com/breakthrough-therapy-obliterates-deadly-brain-tumor-in-days",
+            "urlToImage": "https://www.sciencealert.com/images/2024/03/patient_2_glioblastoma.jpg",
+            "publishedAt": "2024-03-15T05:19:00Z",
+            "content": "Brain scans of a 72-year-old man diagnosed with a highly aggressive form of cancer known as a glioblastoma have revealed a remarkable regression in his tumor's size within days of receiving an infusi… [+3870 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Kareem Khadder, Abeer Salman, Mohammed Tawfeeq",
+            "title": "At least 20 killed, 155 wounded in shelling while waiting for food aid, Gaza health ministry says. Israel denies attack - CNN",
+            "description": "At least 14 people were killed and 150 wounded in shelling Thursday while waiting for food aid in Gaza, according to the health ministry in the Palestinian enclave.",
+            "url": "https://www.cnn.com/2024/03/14/middleeast/blasts-kill-palestinians-food-aid-gaza-intl/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/untitled-2-20240314233429149.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2024-03-15T05:18:00Z",
+            "content": "Gazas health ministry says at least 20 people were killed and 155 wounded by Israeli shelling as they waited for aid on Thursday, as desperate Palestinians increasingly face deadly violence in their … [+7597 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNBC"
+            },
+            "author": "Lim Hui Jie, Shreyashi Sanyal",
+            "title": "Hong Kong leads losses in Asia after hot U.S. inflation report; first estimates from Japan's wage negotiations expected - CNBC",
+            "description": "Japan is expected to see the first estimates from its spring wage negotiations on Friday, ahead of the Bank of Japan's monetary policy meeting on March 18-19.",
+            "url": "https://www.cnbc.com/2024/03/15/asia-markets.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/107289188-1692598524364-gettyimages-1557426353-vcg111446209712.jpeg?v=1692599898&w=1920&h=1080",
+            "publishedAt": "2024-03-15T05:15:00Z",
+            "content": "Shares of Taiwanese multinational electronics contract manufacturer Foxconn surged over 8% following the release of its fourth-quarter and full-year results.\r\nFoxconn, which is traded in Taiwan as Ho… [+729 chars]"
+        }
+    ]
+}
